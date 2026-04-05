@@ -15,3 +15,6 @@ ENV/
 # IDE settings (VS Code and PyCharm)
 .vscode/
 .idea/
+
+# ML Models and Task files
+*.task
