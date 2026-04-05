@@ -2,9 +2,6 @@
 
 <img width="300" height="250" alt="paintbot" src="https://github.com/user-attachments/assets/48c2b49a-5496-4421-b30b-a570dc20635e" />
 
-# Virtual Paint using MediaPipe 🎨
-This is a computer vision-based application that allows users to draw in the air using hand gestures. It uses **OpenCV** for image processing and **MediaPipe** for high-performance hand landmark detection.
-
 ## Inspiration
 The inspiration behind this project comes from the desire to create a **touchless interaction** experience. In an era where hygiene and digital innovation go hand in hand, "Virtual Paint" bridges the gap between physical movement and digital creativity. This project is inspired by futuristic sci-fi interfaces (like in *Iron Man*) where users can manipulate digital objects with simple hand gestures, making technology feel more natural and intuitive.
 
