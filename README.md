@@ -1,6 +1,6 @@
 # cv-virutal-paint
 
-<img alt="paintbot" src="https://github.com/user-attachments/assets/48c2b49a-5496-4421-b30b-a570dc20635e" />
+<img width="300" height="250" alt="paintbot" src="https://github.com/user-attachments/assets/48c2b49a-5496-4421-b30b-a570dc20635e" />
 
 # Virtual Paint using MediaPipe 🎨
 This is a computer vision-based application that allows users to draw in the air using hand gestures. It uses **OpenCV** for image processing and **MediaPipe** for high-performance hand landmark detection.
